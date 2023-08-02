@@ -5,3 +5,4 @@ Tools used : Jupyter Notebook, Kaggle(for dataset), PyCharm, Render(for deployme
 Libraries used : pandas, numpy, streamlit, sklearn, requests, etc.
 Languages: Python
 Reference: https://www.youtube.com/watch?v=1xtrIEwY_zY&list=WL&index=1
+App link : http://localhost:8501/
