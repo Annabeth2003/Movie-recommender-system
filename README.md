@@ -4,4 +4,4 @@ Contains PyCharm app Project and Jupyter notebook
 Tools used : Jupyter Notebook, Kaggle(for dataset), PyCharm, Render(for deployment)
 Libraries used : pandas, numpy, streamlit, sklearn, requests, etc.
 Languages: Python
-Reference: https://www.youtube.com/watch?v=1xtrIEwY_zY&list=WL&index=1
+
